@@ -24,7 +24,7 @@ happy studying.
 
 ```
 
-file content    
+file content (example)     
 http://link.springer.com/openurl?genre=book&isbn=978-1-4471-5134-0  
 http://link.springer.com/openurl?genre=book&isbn=978-1-84628-642-1  
 http://link.springer.com/openurl?genre=book&isbn=978-1-84882-935-0  
@@ -40,8 +40,9 @@ http://link.springer.com/openurl?genre=book&isbn=978-3-319-05699-9
 It took roughly an hour to download all the books in the list.  
 
 Taken from the pdf "Springer_Ebooks.pdf" (in this repo)   
-[Springer_Ebooks.pdf]("https://raw.githubusercontent.com/rahuldeo2047/SpringerLink_open_file_downloader/master/Springer_Ebooks.pdf" "Springer_Ebooks.pdf")  
-screenshot of the response "covid19.png" (in this repo)
+[Springer_Ebooks.pdf]("https://github.com/rahuldeo2047/SpringerLink_open_file_downloader/raw/master/Springer_Ebooks.pdf" "Springer_Ebooks.pdf")  (link removed automaticaly for security reason. However, file can be found in the repo itself.)
+
+screenshot of the response "covid19.png" (in this repo) (example)
  
 ![covid 19 reponse](https://raw.githubusercontent.com/rahuldeo2047/SpringerLink_open_file_downloader/master/covid19.png "covid 19 reponse")
 
